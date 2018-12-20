@@ -2272,10 +2272,10 @@ bitcoinjs-lib@4.0.2, bitcoinjs-lib@^4:
     varuint-bitcoin "^1.0.4"
     wif "^2.0.1"
 
-blockstack@18.1.0:
-  version "18.1.0"
-  resolved "https://registry.yarnpkg.com/blockstack/-/blockstack-18.1.0.tgz#9a47f3de062c1c9e9f91d7790cc63db2967a1a0e"
-  integrity sha512-7N5Bea3dV4p9/g+2g318qoieEvkPT34if1pMFxcqIbpb3t+rBVzSMxjU6JWL1e5VyYWZJdrtHgw7J+uWZQNTew==
+blockstack@18.2.0:
+  version "18.2.0"
+  resolved "https://registry.yarnpkg.com/blockstack/-/blockstack-18.2.0.tgz#c206822f78ea16bea756ce7dd88842b01a8437a3"
+  integrity sha512-9Dvykec9Qs71lqYH089+dkzIHSkvb2YMRiOUW9iuuwGPh461kvn6HL99yBCQyrOng9xfdc+DBHrxGRRv8J+rDg==
   dependencies:
     ajv "^4.11.5"
     babel-runtime "^6.26.0"
